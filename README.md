@@ -257,8 +257,9 @@ These are some of the most common Git commands to get you started. Remember to r
    ```
 
 4. Create a Pull Request (PR) from your "update-branch" to the original repository's main branch on GitHub.
+   
 
-5. Provide the URL to your PR on GitHub.
+6. Provide the URL to your PR on GitHub.
 
 **Task 5: Review and Merge**
 
@@ -278,3 +279,4 @@ These are some of the most common Git commands to get you started. Remember to r
 
 
 
+--
